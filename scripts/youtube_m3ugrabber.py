@@ -1,6 +1,11 @@
 #! /usr/bin/python3
 
+banner = r'''
 
+
+#  >> https://github.com/benmoose39     #
+
+'''
 
 import requests
 import os
