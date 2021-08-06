@@ -2,7 +2,7 @@
 <h1 align="center"> YouTube_to_m3u </h1>
 
 [![M3U generator for YouTube](https://github.com/gohhh1234/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/gohhh1234/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
-[![M3U generator for YouTube](https://github.com/gohhh1234/YouTube_to_m3u/actions/workflows/txt_Generator.yml/badge.svg)](https://github.com/gohhh1234/YouTube_to_m3u/actions/workflows/txt_Generator.yml)
+
 `https://raw.githubusercontent.com/gohhh1234/YouTube_to_m3u/main/youtube.m3u`
 
 Updated m3u links of YouTube live channels, **auto-updated every hour**.
