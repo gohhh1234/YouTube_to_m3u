@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+
+
+#  >> https://github.com/benmoose39     #
+
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Relaxing Music, Soothing Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269814/ei/lhgNYZ_SBZKHhgaF7rP4Cw/ip/52.177.184.218/id/KwpGjxJZJx8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANjhrdca-AaIBHxv54h3_Z7KrBfuUvkVNuDDBGGBozJJAiA22a_k-6WXu5zLcR0fofdABiPfbrJ_vC0PeZS9DyU5IA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chinese POP Music➨24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269814/ei/lhgNYaOjGo_ohgbzwJOICA/ip/52.177.184.218/id/rGPXugD0ekU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF5Q0070BlN5_72aXEFE3EL723CIp6TGaOLC9dpHvXaICIBBaL4F9EQwZsm2PdcpJOCwcEFi6BCTgiusqImnuqWmA/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 8FM Live!，One FM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269814/ei/lhgNYbfBLJmshwae67SADA/ip/52.177.184.218/id/dQUrsmcvmSA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALLSlSPhIq8uxGcK_-vKHCocRTckt0FwZUXY57spi3ELAiBcRMiB2W37d1Twza81W9Yd9MrGgWU7kABLAKOffqwNDA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The Good Life Radio • 24/7 Live Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269815/ei/lhgNYc_tO-KLhwbx-YOABA/ip/52.177.184.218/id/36YnV9STBqc.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHuWCjH09VzeuUjEFbjR3V4kl3B9sbGIz3z1YJAK_jlcCICrAKlDCsuBw6H7wdXeyClz2_3DK82zevupNzap07nHB/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio - 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269815/ei/lxgNYcmuIpC2hwbRqqjAAg/ip/52.177.184.218/id/DSGyEsJ17cI.453/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMrEc42bx_oqvVptJBebC2WOfNDD2mG82B4O0Gm2pEwhAiEA47hDukWFeFyPdx58tYHXMaPUir3rKGg_5n0RqnPXAcw%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Beautiful Piano Music 24/7 • Relax, Study, Sleep
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269816/ei/mBgNYaKrEduXhwbqiKngCw/ip/52.177.184.218/id/y7e-GC6oGhg.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPAhLBuslKCf2_eXHH0t5SmAyW1sOameKEAoqqg-xwXpAiEA5A9fwuoNo2EHA7DvusQHWGvMHBu4o2xgPLkU2lJYAhk%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Relaxing Piano Music & Rain Sounds 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269816/ei/mBgNYbf9Lca4hwaO5rnwDw/ip/52.177.184.218/id/TKqv5ekBjI0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNAccNtRSRfEht04kWPBvSKxnFJ5FCMxnpgBqdRp9-1oCIBHL-Y_IWVmebAAUe3J9Xh3IZ1GZsbAIKSmIgthqex9A/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Relaxing Sleep Music 24/7 • Music by @Peder B. Helland
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269817/ei/mRgNYayIENTnhwb-_Y5A/ip/52.177.184.218/id/fBVJoIbNjdQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ_Nj2Ztp6ndFzBvUV3yx6UYIuApQZjbu8lAunANhD7EAiEAkRQ-ow5F2gsjDGiFyJm1BaxiXdEzIHQ07LiuZsfU5Us%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", NCS 24/7 - Copyright Free Music Livestream by @NoCopyrightSounds
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628269817/ei/mRgNYdKZOMGjhwbAwLKQCw/ip/52.177.184.218/id/7tNtU5XFwrU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKYrNOatMbOA9TvIUIs-OdAC_GKVKxilpjhsugzKR5rMCIDi4WJjhTmEcVEqU4RbaTE0-UonSPlzflnq7Xl0-rZ-V/file/index.m3u8
