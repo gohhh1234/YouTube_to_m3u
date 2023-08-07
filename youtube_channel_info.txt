@@ -1,32 +1,13 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Relaxing Music, Soothing Music | Music | |
-https://www.youtube.com/watch?v=KwpGjxJZJx8
-
-Chinese POP Music➨24/7 | Music | |
-https://www.youtube.com/watch?v=rGPXugD0ekU
-
-8FM Live!，One FM | Music | |
-https://www.youtube.com/watch?v=dQUrsmcvmSA
-
-The Good Life Radio • 24/7 Live Radio | Music | |
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio - 24/7 | Music | |
-https://www.youtube.com/watch?v=DSGyEsJ17cI
-
-Beautiful Piano Music 24/7 • Relax, Study, Sleep| Music | |
-https://www.youtube.com/watch?v=y7e-GC6oGhg
-
-Relaxing Piano Music & Rain Sounds 24/7| Music | |
-https://www.youtube.com/watch?v=TKqv5ekBjI0
-
-Relaxing Sleep Music 24/7 • Music by @Peder B. Helland | Music | |
-https://www.youtube.com/watch?v=fBVJoIbNjdQ
-
-NCS 24/7 - Copyright Free Music Livestream by @NoCopyrightSounds | Music | |
-https://www.youtube.com/watch?v=7tNtU5XFwrU
-
-MY好玩 线上收听 ❤️🧡💛💚💙💜| Music | |
-https://www.youtube.com/watch?v=kR1qvTnFkNA
+MY好玩 线上收听 ❤️🧡💛💚💙💜| RadioYTLive | https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png |MY
+https://www.youtube.com/c/MY-malaysia/live
+8FM 线上收听 | RadioYTLive | https://th.bing.com/th/id/OIP.bnE3dUFAxio5D885ZpdMtgAAAA?pid=ImgDet&rs=1 | 8FM
+https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
+988FM 线上收听 | RadioYTLive | https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png |988FM
+https://www.youtube.com/988ziduodi/live
+GOXUAN | RadioYTLive | https://aqfadtv.astradamy.com/logos/GoXuan2022.png | GOXUAN
+https://www.youtube.com/c/GOXUAN/live
+MELODY | RadioYTLive | https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png | MELODY
+https://www.youtube.com/c/MELODY-malaysia/live
