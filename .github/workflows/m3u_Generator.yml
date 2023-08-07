@@ -33,9 +33,9 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: config
         run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-      
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+       
       
       - name: Main
         run: |
