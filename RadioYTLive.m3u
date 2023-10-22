@@ -10,13 +10,13 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://th.bing.com/th/id/OIP.bnE3dUFAxio5D885ZpdMtgAAAA?pid=ImgDet&rs=1" tvg-id="8FM", 8FM 线上收听
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697998876/ei/uxM1ZamiObOMir4PuKmniA0/ip/40.122.243.81/id/o1ipHJUfFTM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9Ys4vraYeDaNepzM7J0OJ-zwyMmuCJ5bTbm2hltqu6emG_y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgTo6P9WM-NB0DZRadULfxdEUr6pA2gMVHc6gNcp89wvsCIFmUSFa_R1Q4k0I2zS0zbR0z-EYcwMiPPGraKqiYWQMg/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698009054/ei/fjs1ZbXyC4SV_9EP5JGjoAc/ip/20.57.73.33/id/o1ipHJUfFTM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_bgHe-2pvgEsFCsSLDfHqt1cCbCJ__S57nwwA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALlWpIu5P8A2crJvlVjmVjG0QGORZIim9WtVEpl5XpS9AiEAujN_N4Ly46GrUiqfp5PBNy_NSUmdyj8-u4ChJhIY-mw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="988FM", 988FM 线上收听
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://aqfadtv.astradamy.com/logos/GoXuan2022.png" tvg-id="GOXUAN", GOXUAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697998877/ei/vRM1ZYO6D7aSlu8Pg_mB-Ag/ip/40.122.243.81/id/FE-GMWXoW0c.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwZbLhOUGNksWxzQ26fRFvEGGsjXLPd48-VkvCTA3tTHXkYy/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALvffmLgVreMtMt4Xy32jK3QmZHrtHbrcyynYdB_YusWAiEA0wXuQmu8d48FYg44tVJKi07L4Da-G3vVxsWGhqhW1fM%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" tvg-id="MELODY", MELODY
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
