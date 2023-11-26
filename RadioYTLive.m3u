@@ -10,7 +10,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://th.bing.com/th/id/OIP.bnE3dUFAxio5D885ZpdMtgAAAA?pid=ImgDet&rs=1" tvg-id="8FM", 8FM 线上收听
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700968210/ei/smJiZZDaK7apsfIP1M6b8Ao/ip/13.88.100.226/id/o1ipHJUfFTM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-CSwyFnl18XaC4DohrgvrX118YRF0Tx1bgA-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgZMBgECEUvb0aWKj8raq6u3B9zPUqLU1WZVCgv4wcnYwCIDiCT9_LslB6rmV2nqkfLFQyKPE-Yxp5ZQMnfU09t-wf/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700982059/ei/y5hiZfvUBc6-sfIPmaCEoAw/ip/52.238.27.64/id/o1ipHJUfFTM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-rfpH-HujDfF7DNnhDcQyPOYDe1JuLp6oJB_Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgIhjphunXhNP-BLbwTj7AVTJAZJ93HvJTh0A1Loh5zXoCIAV2S6u2U73obweylzYZHVgVs5JkCh0yE-Ya-qJbLJn_/file/index.m3u8
 
 #EXTINF:-1 group-title="Radioytlive" tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="988FM", 988FM 线上收听
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
